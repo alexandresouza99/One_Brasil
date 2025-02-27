@@ -12,6 +12,8 @@ Função otimizada de embaralhamento da lista de pessoas
 Linguagem
 Javascript, HTML, CSS...
 
+TELA
+
 ![Tela_amigo_secreto](https://github.com/user-attachments/assets/71b3fb2b-6d43-4111-9669-19f57068befa)
 
 
