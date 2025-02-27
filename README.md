@@ -12,4 +12,4 @@ Função otimizada de embaralhamento da lista de pessoas
 Linguagem
 Javascript, HTML, CSS...
 
-Tela
+
